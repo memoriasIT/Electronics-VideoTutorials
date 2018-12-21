@@ -6,6 +6,7 @@
 
 Full playlist: <a href="https://www.youtube.com/playlist?list=PLqsewl9xsOjblkomgeglS9es2yL3axs0j">Link</a>
 
+<h1> List of videos </h1>
 <table>
   <tr>
     <th><a href="https://www.youtube.com/watch?v=acttbfPwzns&list=PLqsewl9xsOjblkomgeglS9es2yL3axs0j&index=1"><img width="33%" src="https://raw.githubusercontent.com/memoriasIT/Electronics-VideoTutorials/master/Electronica%20videos/1.png"><br>Magnitudes, elementos y análisis de circuitos (Kirchoff/Thévenin)</a></th>
